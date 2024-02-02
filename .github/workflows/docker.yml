@@ -42,5 +42,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            jmunozji/practica8_1:latest 
-            ghcr.io/jmunozji/practica8_1:latest 
+            jmunozji/practica8_1:latest
+#            ghcr.io/jmunozji/practica8_1:latest 
