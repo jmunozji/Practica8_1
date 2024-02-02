@@ -38,6 +38,6 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: | #
+          tags:
             jmunozji/Practica8_1:latest 
             ghcr.io/jmunozji/Practica8_1:latest 
